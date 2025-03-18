@@ -10,11 +10,11 @@ myenv\Scripts\Activate
 •	python -c "import nltk; nltk.download('punkt')"
 
 •	Clone IndicTrans2
-git clone https://github.com/AI4Bharat/IndicTrans2.git
+git clone https://github.com/AI4Bharat/IndicTrans2.git<br>
 cd IndicTrans2/huggingface_interface
 
 •	Clone IndicTransToolkit
-git clone https://github.com/VarunGumma/IndicTransToolkit.git
+git clone https://github.com/VarunGumma/IndicTransToolkit.git<br>
 cd IndicTransToolkit
 
 •	Inside IndictransToolkit create main.py and paste the below code:
