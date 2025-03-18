@@ -1,5 +1,5 @@
-•	Create env with python 3.10 version
-py -3.10 -m venv myenv  
+•	Create env with python 3.10 version <br>
+py -3.10 -m venv myenv <br>
 myenv\Scripts\Activate   
 
 •	pip install torch transformers sacremoses pandas regex mock bitsandbytes scipy accelerate datasets sentencepiece mosestokenizer nltk
