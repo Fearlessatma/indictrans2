@@ -90,6 +90,7 @@ def batch_translate(input_sentences, src_lang, tgt_lang, model, tokenizer, ip):
 
 # Initialize the model and processor
 en_indic_ckpt_dir = "ai4bharat/indictrans2-en-indic-1B"
+#for indic-english use this “ai4bharat/indictrans2-indic-en-1B”
 en_indic_tokenizer, en_indic_model = initialize_model_and_tokenizer(en_indic_ckpt_dir, quantization)
 ip = IndicProcessor(inference=True)
 
