@@ -19,7 +19,7 @@ git clone https://github.com/VarunGumma/IndicTransToolkit.git
 cd IndicTransToolkit
 
 •	Inside IndictransToolkit create main.py and paste the below code:
-•	[https://github.com/Fearlessatma/indictrans2](https://github.com/Fearlessatma/indictrans2/tree/main/huggingface_interface/IndicTransToolkit)
+•	https://github.com/Fearlessatma/indictrans2/tree/main/huggingface_interface/IndicTransToolkit
 
 # Solution for ModuleNotFoundError: No module named 'IndicTransToolkit.processor'
 
